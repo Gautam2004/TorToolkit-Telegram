@@ -1,5 +1,5 @@
 class Commands:
-    LEECH = "leech"
+    LEECH = "gleech"
     PURGE = "purge"
     PAUSEALL = "pauseall"
     RESUMEALL = "resumeall"
@@ -7,8 +7,8 @@ class Commands:
     SETTINGS = "settings"
     EXEC = "exec"
     UPLOAD = "upload"
-    YTDL = "ytdl"
-    PYTDL = "pytdl"
+    YTDL = "gytdl"
+    PYTDL = "gpytdl"
     ABOUT = "about"
     GETLOGS = "getlogs"
     SERVER = "server"
